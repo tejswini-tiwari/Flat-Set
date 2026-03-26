@@ -1,0 +1,1 @@
+This web application will give you tailored suggestion for your new flat purchase 
